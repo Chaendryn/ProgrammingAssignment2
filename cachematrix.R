@@ -1,7 +1,7 @@
 ## The makeCacheMatrix function creates a special object that stores a 
 ## list of functions for use on matrix calculation, and the cacheSolve 
 ## function creates the inverse of the initial matrix and cache's this 
-## inverse vector
+## inverse matrix
 
 
 ## The makeCacheMatrix function is creates a special matrix object which 
